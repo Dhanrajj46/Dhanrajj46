@@ -17,7 +17,7 @@
 
 ```typescript
 const dhanrajsinh = {
-  title: ["Student", "Full-Stack Developer", "Data Analyst"],
+  title: ["Full-Stack Developer", "Data Analyst"],
   stack: ["HTML", "CSS", "JavaScript", "Python"],
   launchedProjects: [],
   certifications: [],
